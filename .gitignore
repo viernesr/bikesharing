@@ -1,3 +1,4 @@
-# Files are too large
+# Files to ignore
+.ipynb_checkpoints
 201908-citibike-tripdata.csv
 updated_citibike.csv
